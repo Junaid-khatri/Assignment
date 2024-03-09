@@ -36,9 +36,9 @@ Navigate to the project directory: cd assignment
 
 Project Structure:-
 
-src/: Contains the source code.
+java/com/springBoot/project: Contains the source code.
 
-docs/: Documentation files.
+docs/: Documentation file.
 
 config/: Configuration files.
 
