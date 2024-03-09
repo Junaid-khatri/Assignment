@@ -38,9 +38,8 @@ Project Structure:-
 
 java/com/springBoot/project: Contains the source code.
 
-docs/: Documentation file.
+Project Management Application.docx: Documentation file.
 
-config/: Configuration files.
 
 
 Contributing:-
